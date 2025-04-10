@@ -4,19 +4,19 @@ import projects from "./Data/projects.js";
 const Projects = () => {
   return (
     
-      <div className="container projects my-3" id="projects">
+      <div className="container projects " id="projects">
         <h1>PROJECTS</h1>
-        <div className="row d-flex justify-content-center align-content-center">
+        <div className="row d-flex   justify-content-center align-content-center">
           {projects.map((data) => (
             
               <div
                 key={data.id}
-                className="my-4 col-sm-6 col-md-4 col-lg-3 mx-4"
+                className="my-4  col-sm-1  col-md-4 col-lg-3 mx-4"
               >
                 <div
-                  className="card bg-dark text-light"
+                  className="card bg-dark   text-light"
                   style={{
-                    width: "18rem",
+                    
                     border: "1px solid yellow",
                     boxShadow: "5px 5px 10px 10px rgba(19, 182, 241, 0.495)",
                   }}

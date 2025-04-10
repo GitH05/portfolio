@@ -4,8 +4,8 @@ const projects=[
     "title": "LostLink",
     "imageSrc": "assets/project/lostlink.jpg",
     "description": "Every Object have story and home We are to write the 'Happy Ending'.",
-    "demo": "https://github.com/GitH05/LostLink",
-    "source": "https://www.github.com/GitH05/LostLink"
+    "demo": "https://lost-link-gamma.vercel.app/",
+    "source": "https://github.com/GitH05/LostLink"
   },
   {
     "key": 2,

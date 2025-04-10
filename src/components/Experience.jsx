@@ -1,5 +1,5 @@
 import React from 'react'
-import experience from './data/experience.json'
+import experience from './Data/experience.js'
 
 const Experience = () => {
   return (
@@ -10,7 +10,7 @@ const Experience = () => {
         {
           experience.map((data) => {
             return (
-              <>
+              
                 <div
                   key={data.id}
                   className='ex-items text-center my-5'
@@ -34,7 +34,7 @@ const Experience = () => {
                     <h5 style={{ color: "yellow" }}>{data.experiences[1]}</h5>
                   </div>
                 </div>
-              </>
+              
             )
           })
         }

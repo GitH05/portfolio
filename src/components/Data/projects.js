@@ -1,4 +1,4 @@
-[
+const projects=[
   {
     "key": 1,
     "title": "LostLink",
@@ -24,3 +24,4 @@
     "source": "https://www.github.com/GitH05/CurrencyConverter"
   }
 ]
+export default projects

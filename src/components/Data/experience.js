@@ -1,4 +1,4 @@
-[
+const experience=[
   {
     "id": 1,
     "role": "Python Backend Developer",
@@ -12,3 +12,5 @@
     ],
     "imageSrc": "company/AarksoftWebTech.png"
   }]
+
+  export default experience

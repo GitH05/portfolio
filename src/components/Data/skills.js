@@ -1,4 +1,4 @@
-[
+const skill=[
   {
     "title": "Java",
     "imageSrc": "skills/java.png"
@@ -52,3 +52,5 @@
     "imageSrc": "skills/matplotlib.png"
   }
 ]
+
+export default skill

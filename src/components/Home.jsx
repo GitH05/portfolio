@@ -40,7 +40,7 @@ const Home = () => {
             download="Resume.pdf"
             className="btn btn-outline-warning my-3"
           >
-            Download Resume
+            Resume
           </a>
         </div>
         <div className="right">
